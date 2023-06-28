@@ -192,21 +192,24 @@ body {
   background-color: #11d580;
 
 }
-#feature .feature-box:nth-child(1) h6 {
-  background-color: #11d580;
+
+#feature .card1 .feature-box h6{
+  background-color: rgb(42, 77, 34);
 }
 
-#feature .feature-box:nth-child(2) h6{
+
+
+#feature .card2 .feature-box h6{
   background-color: rgb(80, 80, 135);
 }
 
 
-#feature .feature-box:nth-child(3) h6{
+#feature .card3 .feature-box h6{
   background-color: rgb(177, 50, 50);
 }
 
 
-#feature .feature-box:nth-child(4) h6{
+#feature .card4 .feature-box h6{
   background-color: rgb(184, 135, 31);
 }
 
